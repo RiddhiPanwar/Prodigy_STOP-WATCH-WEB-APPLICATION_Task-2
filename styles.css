@@ -1,0 +1,28 @@
+#stopwatch {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  #controls {
+    margin-bottom: 20px;
+  }
+  
+  #lap-times {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: none;
+  }
+  
+  #lap-times ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #lap-times li {
+    margin-bottom: 5px;
+  }
+  
